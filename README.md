@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-preview.jpg.jpg)
+![Visit](./desktop-preview.jpg.jpg)
 
 ### Links
 
-- Solution URL: [solution Url](https://github.com/shakib1010/stats-preview-card-component-fem)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/shakib1010/stats-preview-card-component-fem]
+- Live Site URL: [https://shakib1010.github.io/stats-preview-card-component-fem/]
 
 ## My process
 
